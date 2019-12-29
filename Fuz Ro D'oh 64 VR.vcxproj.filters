@@ -80,6 +80,7 @@
     <ClInclude Include="..\sksevr\skse64\GameSettings.h">
       <Filter>SKSE64 VR</Filter>
     </ClInclude>
+    <ClInclude Include="..\SME-Sundries\Tools\BuildInfo.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="FuzRoDohInternals.cpp" />
